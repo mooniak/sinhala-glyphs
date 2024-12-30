@@ -16,26 +16,19 @@ This document is an effort to document effective workflows for Sinhala font deve
 #### Groups
 
 ග - ග ඟ හ ශ භ න ක ත ණ ඣ ඤ ඥ
-
 ට - ඔ ඕ ච ව ට ඩ ඞ ධ ඩ ඬ ම ඹ ඞ
-
 එ - එ ඒ ඵ ඪ ඵ ඨ
-
 බ - බ ඛ
-
 ප - ජ ඡ ය ස ෂ ය ඦ ෆ ඍ ඎ ඏ ඐ
-
 උ - අ ඉ ද ඳ ල ළ උ
-
 ර - ර ඊ රි ර් රැ රූ රී
-
 ග්‍රි - ක්‍රී ප්‍රී ච්‍රී දු ශ්‍රී
 
 #### Features
 
-ක ත න
-ග ඟ හ ශ භ ඦ ඤ ඥ ඬ ඳ ඏ 
-භ ස ඝ එ ච ඩ ඪ
+ka-eye: ක ත න
+ka-eye: ග ඟ හ ශ භ ඦ ඤ ඥ ඬ ඳ ඏ 
+line-eye:  භ ස ඝ එ ච ඩ ඪ
 ට ධ ඛ බ ම ඹ ඔ 
 ඕ
 එ - එ ඒ ඵ ඪ ඵ ඨ
@@ -47,27 +40,20 @@ This document is an effort to document effective workflows for Sinhala font deve
 ### STAGE 1 - Exploration
  
 මි ස ප ර ෙ ා ් ක්‍රි 
-
 පු කු
 
 ### STAGE 2 - Extention
 
 ත ඳ ල ඩි
-
 ණ ඉ ඟ
-
 ඊ
 
 ### STAGE 3 - Completion
 
 ම - ඹ ඔ 
-
 න - ක ත 
-
 ග - ඟ ශ හ භ 
-
 ප - ජ ඡ  ෂ ය ඝ ඏ ඝ  
-
 ට - ථ ව ඵ ච එ ධ ඩ ඨ ඪ ඞ ඬ
 
 
